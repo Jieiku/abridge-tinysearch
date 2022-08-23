@@ -1,0 +1,4 @@
+Sitemap: https://jieiku.github.io/abridge-tinysearch/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://jieiku.github.io/abridge-tinysearch
